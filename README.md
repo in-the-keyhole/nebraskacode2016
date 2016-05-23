@@ -47,6 +47,8 @@ This session takes a fresh approach to defining the task at hand. As a member of
 
 ###Azure Service Fabric: Microservice Architecture Made Ridiculously Simple
 ####Speaker: Chase Aucoin 
+Associated Repository: [https://github.com/chaseaucoin/MicroDemo](https://github.com/chaseaucoin/MicroDemo)
+
 8:30 AM Thursday, May 19, 2016, in Breakout A1
 
 CPU and RAM costs continues to plummet, Multi-Core systems are ubiquitous, writing code is easier than it has ever been. Why then, is it still so darn hard to make a scalable system?
@@ -59,6 +61,8 @@ Talk includes 2 brief demos:
 
 ###Don't Hate the HATEOAS
 ####Speaker: Billy Korando
+Associated Repository: [https://github.com/in-the-keyhole/hateoas-demo-II](https://github.com/in-the-keyhole/hateoas-demo-II)
+
 9:45 AM Thursday, May 19, 2016,, in Breakout B1
 
 Many organizations today are developing RESTful services to serve as backends for SPAs or mobile applications. REST has become an extremely popular technology because it’s lightweight, statelessness allows for easy scaling, and using the HTTP verbs allows for a level of self-documentation. This talk will cover how using HATEOAS can more your REST beyond just GETing data or allowing a user to PUT data on your server.
