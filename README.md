@@ -4,6 +4,8 @@ Five Keyhole Software employees - Chase Aucoin, Adam Costenbader, Rusty Divine, 
 ##Workshops
 ###Let's Do Microsoft Micro-Services!
 ####Speaker: Chase Aucoin
+Connect with Chase [on LinkedIn](https://www.linkedin.com/in/chaseaucoin) for links to presentation and support.
+
 Full-Day Workshop, 8:00 AM Wednesday, May 18, 2016 
 
 A full day of fun, excitement, and Micro-Services!
@@ -48,6 +50,8 @@ This session takes a fresh approach to defining the task at hand. As a member of
 ###Azure Service Fabric: Microservice Architecture Made Ridiculously Simple
 ####Speaker: Chase Aucoin 
 Associated Repository: [https://github.com/chaseaucoin/MicroDemo](https://github.com/chaseaucoin/MicroDemo)
+
+Connect with Chase [on LinkedIn](https://www.linkedin.com/in/chaseaucoin) for links to presentation and support.
 
 8:30 AM Thursday, May 19, 2016, in Breakout A1
 
@@ -100,7 +104,10 @@ Attendees will see some non-trivial C# unit testing examples and come away with 
 
 ###Google Chrome Dev Tools 101
 ####Speaker: Adam Costenbader
+Presentation given through this follow-along website: [http://chrome.costrcode.com/](http://chrome.costrcode.com/).
+
 9:45 AM  Friday, May 20, 2016, in Breakout A2
+
 This is an intermediate to advanced session that will not cover the basics of unit testing, but hopefully will be good information even for someone new to unit testing.
 
 Chasing bugs in web applications can be tough but with the right tools the job can be made a lot easier. Google Chrome offers great tools to hunt, find, and test resolutions for bugs as well as for determining optimizations. Let's dive into a quick overview of what can be done with Chrome Developer tools and run through some test scenarios that happen day to day with web application development.
